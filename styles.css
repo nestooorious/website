@@ -1,0 +1,35 @@
+/*!
+ * Start Bootstrap - The Big Picture (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+}
+
+h1 {
+	color: white;
+	font-family: 'Gill Sans', Calibri, sans-serif;
+	font-size: 24 px;
+	font-weight: 500;
+}
+
+p {
+	color: white;
+	font-family: 'Helvetic Neue', Arial, sans-serif;
+	font-size: 16 px;
+}
+
+.full {
+  background: url('images/File_000.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
